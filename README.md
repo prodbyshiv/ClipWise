@@ -1,11 +1,3 @@
----
-title: ClipWise
-emoji: 🎬
-colorFrom: indigo
-colorTo: cyan
-sdk: docker
-pinned: false
----
 
 # ClipWise — AI YouTube Learning Assistant
 
